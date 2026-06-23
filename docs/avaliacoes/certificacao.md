@@ -61,7 +61,7 @@ Ao concluir toda a trilha de aprendizagem, esperamos que você seja capaz de:
 
 ## Continue sua Jornada
 
-Enquanto a Certificação Final não é disponibilizada, aproveite para:
+A certificação foi disponibilizada, a sugestão é de que a prova seja feita após:
 
 ✅ Concluir todos os módulos da formação
 
@@ -70,8 +70,6 @@ Enquanto a Certificação Final não é disponibilizada, aproveite para:
 ✅ Resolver os estudos de caso
 
 ✅ Revisar os principais tópicos do Manual do Produto
-
-✅ Compartilhar experiências e dúvidas com os colegas
 
 ---
 
