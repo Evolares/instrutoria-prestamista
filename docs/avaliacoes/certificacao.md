@@ -79,5 +79,5 @@ A certificação foi disponibilizada, a sugestão é de que a prova seja feita a
 
 <a href="https://forms.office.com/r/pbpqHPmZPN"
    class="md-button">
-    📖 Responder o Teste para Certificação Final da Instrutoria em Seguro Vida Prestamista
+    📖 Teste para Certificação Final da Instrutoria em Seguro Vida Prestamista
 </a>
