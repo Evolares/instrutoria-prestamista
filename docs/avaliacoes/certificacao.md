@@ -77,4 +77,9 @@ Enquanto a Certificação Final não é disponibilizada, aproveite para:
 
 > "O conhecimento não é medido apenas pelo que sabemos, mas pela capacidade de aplicar o que aprendemos para gerar valor."
 
-### 🚀 Em breve: Certificação Final do Especialista em Seguro Vida Prestamista
+### 🚀 Certificação da Instrutoria: 
+
+<a href="https://forms.office.com/r/pbpqHPmZPN"
+   class="md-button">
+    📖 Responder o Teste para Certificação Final da Instrutoria em Seguro Vida Prestamista
+</a>
