@@ -1,11 +1,5 @@
 # Certificação Final
 
-## Em Breve
-
-Estamos preparando a etapa final da **Instrutoria Prestamista**.
-
-A Certificação Final será disponibilizada em uma próxima versão da plataforma e terá como objetivo validar os conhecimentos adquiridos ao longo de toda a trilha de formação.
-
 ---
 
 ## O que será avaliado?
@@ -30,7 +24,7 @@ A certificação contemplará os principais temas abordados durante o programa:
 A avaliação final será composta por:
 
 * Questões objetivas
-* Estudos de caso
+
 * Situações práticas da operação
 * Cenários reais de análise e tomada de decisão
 
